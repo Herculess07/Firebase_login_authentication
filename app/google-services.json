@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "120848733574",
+    "firebase_url": "https://my-first-db-07-default-rtdb.firebaseio.com",
+    "project_id": "my-first-db-07",
+    "storage_bucket": "my-first-db-07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120848733574:android:ee7076c5297ac2c885c807",
+        "android_client_info": {
+          "package_name": "com.learning.admobbannerads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120848733574-anbdc83lka3sjgsc5kkmts8eu0jeem48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzyNZtDZJOEUImxUlFR2D9X7EbbgF9lPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120848733574-anbdc83lka3sjgsc5kkmts8eu0jeem48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120848733574:android:ec8044f575090df585c807",
+        "android_client_info": {
+          "package_name": "com.learning.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120848733574-anbdc83lka3sjgsc5kkmts8eu0jeem48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzyNZtDZJOEUImxUlFR2D9X7EbbgF9lPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120848733574-anbdc83lka3sjgsc5kkmts8eu0jeem48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120848733574:android:e8c108716f5eedee85c807",
+        "android_client_info": {
+          "package_name": "com.learning.firebaseconnection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120848733574-anbdc83lka3sjgsc5kkmts8eu0jeem48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzyNZtDZJOEUImxUlFR2D9X7EbbgF9lPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120848733574-anbdc83lka3sjgsc5kkmts8eu0jeem48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
